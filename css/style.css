@@ -1,0 +1,21 @@
+/*font-family: 'Nunito Sans', sans-serif;*/
+/*font-family: 'Open Sans', sans-serif;*/
+
+:root {
+    --c-white: #FFFFFF;
+    --c-black: #000000;
+}cd power
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif
+}
+
+.container {
+    max-width: 1088px;
+    margin: 0 auto;
+}
